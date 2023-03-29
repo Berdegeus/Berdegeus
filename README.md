@@ -1,4 +1,4 @@
-### Olá 👋, seja bem vindo ao meu perfil, sou estudante do primriro periodo de ciêcia da computação na PUCPR 
+### Olá 👋 seja bem vindo ao meu perfil
 
 <div> 
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Berdegeus&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
